@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ejoZebP3y1lWjKNYErXKBM7Sx0clK4gd5GFYDzFfrTY=",
+  "Source": "IotHubDevice",
+  "BasePath": "_content/IotHubDevice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
