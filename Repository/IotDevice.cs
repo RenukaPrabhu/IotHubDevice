@@ -8,7 +8,7 @@ namespace IotDevice.Repository
     public class IotDevice
     {
         public static RegistryManager registryManager;
-        private static string connectionString="HostName=renukaIotHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=8vUFiGP3CZDEypqY2XHWgnkzpaHj4lE+tZTCEqnjitc=";
+        private static string connectionString="HostName=testhubiotnew.azure-devices.net;SharedAccessKeyName=device;SharedAccessKey=HbtsNiaNG5ZKZnbs2eT8sv2qpk/mqJgFoyv6QjvVzeo=";
         //static Device device;
         public static async Task AddDeviceAsync(string deviceName)
         {
